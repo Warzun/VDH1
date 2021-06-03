@@ -1,6 +1,6 @@
 ﻿using System;
-using VDH1.Students.DanielDaniel;
-using VDH1.Teachers.Niels;
+using VDH1.Teachers;
+
 
 namespace VDH1
 {
@@ -9,7 +9,7 @@ namespace VDH1
         // Code momments.
         static void Main(string[] args)
         {
-            Console.WriteLine((new Daniel()).FullName);
+            Console.WriteLine((new Niels()).FullName);
         }
     }
 }
