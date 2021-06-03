@@ -1,0 +1,4 @@
+﻿1. Gøre rede for hvorledes "colaborators" får adgang til hendholdsvis public og private repositories med specifikt hendsyn til:
+
+få opret et lokalt kopi af projektet på sit eget PC (nøgleord: CLONE).
+få opdateret kode fra eget lokal kopi til github (nøgleord: COMMIT, PUSH, PULL, PULLREQUEST).
