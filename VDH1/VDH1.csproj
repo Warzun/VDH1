@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -9,19 +9,15 @@
     <Folder Include="Students\Andreas\" />
     <Folder Include="Students\DanielDaniel\"/>
     <Folder Include="Students\DanielHoyer\" />
-    <Folder Include="Students\Dikshya\" />
     <Folder Include="Students\Evgeny\" />
     <Folder Include="Students\Kasper\" />
     <Folder Include="Students\MichaelSteenMadsen\" />
     <Folder Include="Students\Ngoc\" />
-    <Folder Include="Students\NicklasGV\" />
     <Folder Include="Students\NiklasWeinreich\" />
     <Folder Include="Students\Oliver\" />
     <Folder Include="Students\PatrickStoltenberg\" />
-    <Folder Include="Students\PatricMV\" />
     <Folder Include="Students\Uttam\" />
     <Folder Include="Students\Valbon\" />
-    <Folder Include="Students\Victor\" />
   </ItemGroup>
 
   <ItemGroup>
